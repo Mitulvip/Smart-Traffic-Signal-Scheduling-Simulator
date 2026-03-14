@@ -1,5 +1,0 @@
-
-> traffic-signal-simulator-backend@1.0.0 dev
-> node --watch src/server.js
-
-Traffic simulator backend running on port 4000
